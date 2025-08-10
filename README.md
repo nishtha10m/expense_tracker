@@ -18,7 +18,7 @@ A **Python Tkinter** desktop application to track daily expenses with category-w
 
 ## 🚀 How to Run
 1. Clone the repository:
-   git clone https://github.com/nishtha10m/expense-tracker.git
+   git clone https://github.com/nishtha10m/expense_tracker.git
 2. Install required libraries:
 pip install matplotlib
 3. Run the application:
